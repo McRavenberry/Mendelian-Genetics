@@ -1,7 +1,7 @@
 # Mendelian-Genetics
 A simple Punnett Square program written in Python 3.  
 
-You can DEMO the project in action here: 
+You can DEMO the project here: 
 https://replit.com/@TrevorMcGarrah/Mendelian-Genetics?outputonly=1&amp;lite=true#main.py
 
 ## Written on Replit.com
